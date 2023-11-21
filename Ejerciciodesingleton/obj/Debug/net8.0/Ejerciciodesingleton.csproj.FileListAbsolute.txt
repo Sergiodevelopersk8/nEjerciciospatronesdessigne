@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\bin\Debug\net8.0\Ejerciciodesingleton.exe
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\bin\Debug\net8.0\Ejerciciodesingleton.deps.json
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\bin\Debug\net8.0\Ejerciciodesingleton.runtimeconfig.json
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\bin\Debug\net8.0\Ejerciciodesingleton.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\bin\Debug\net8.0\Ejerciciodesingleton.pdb
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\refint\Ejerciciodesingleton.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.pdb
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\Ejerciciodesingleton.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Ejerciciodesingleton\obj\Debug\net8.0\ref\Ejerciciodesingleton.dll

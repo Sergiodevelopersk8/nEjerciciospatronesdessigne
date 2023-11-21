@@ -1,0 +1,16 @@
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.exe
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.deps.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.runtimeconfig.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ref\ejercicioscsharp.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\bin\Debug\net5.0\ejercicioscsharp.pdb
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ref\ejercicioscsharp.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.pdb
+C:\Users\DrawH\source\repos\ejercicioscsharp\ejercicioscsharp\obj\Debug\net5.0\ejercicioscsharp.genruntimeconfig.cache

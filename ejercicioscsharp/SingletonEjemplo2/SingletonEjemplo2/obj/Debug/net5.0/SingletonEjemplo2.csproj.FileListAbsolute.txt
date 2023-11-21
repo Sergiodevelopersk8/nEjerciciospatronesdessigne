@@ -1,0 +1,16 @@
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.exe
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.deps.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.runtimeconfig.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\ref\SingletonEjemplo2.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\bin\Debug\net5.0\SingletonEjemplo2.pdb
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\ref\SingletonEjemplo2.dll
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.pdb
+C:\Users\DrawH\source\repos\ejercicioscsharp\SingletonEjemplo2\SingletonEjemplo2\obj\Debug\net5.0\SingletonEjemplo2.genruntimeconfig.cache
