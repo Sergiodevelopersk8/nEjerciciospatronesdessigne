@@ -1,0 +1,15 @@
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\bin\Debug\net8.0\Singleton.EjemploMundoReal.exe
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\bin\Debug\net8.0\Singleton.EjemploMundoReal.deps.json
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\bin\Debug\net8.0\Singleton.EjemploMundoReal.runtimeconfig.json
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\bin\Debug\net8.0\Singleton.EjemploMundoReal.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\bin\Debug\net8.0\Singleton.EjemploMundoReal.pdb
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.sourcelink.json
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\refint\Singleton.EjemploMundoReal.dll
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.pdb
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\Singleton.EjemploMundoReal.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\Ejerciciodesingleton\Singleton.EjemploMundoReal\obj\Debug\net8.0\ref\Singleton.EjemploMundoReal.dll

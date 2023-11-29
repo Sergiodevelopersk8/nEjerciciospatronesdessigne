@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejerciciodesingleton", "Ejerciciodesingleton\Ejerciciodesingleton.csproj", "{FD7C7639-F2D9-4091-8280-AC5745AE4F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejerciciodesingleton", "Ejerciciodesingleton\Ejerciciodesingleton.csproj", "{FD7C7639-F2D9-4091-8280-AC5745AE4F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.EjemploMundoReal", "Singleton.EjemploMundoReal\Singleton.EjemploMundoReal.csproj", "{FB8164E4-2628-4F93-86E7-AF8ED6192DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ThreadSafe", "Singleton.ThreadSafe\Singleton.ThreadSafe.csproj", "{A60DE372-1550-4FBB-890B-0C98F20F2878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FD7C7639-F2D9-4091-8280-AC5745AE4F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7C7639-F2D9-4091-8280-AC5745AE4F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7C7639-F2D9-4091-8280-AC5745AE4F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8164E4-2628-4F93-86E7-AF8ED6192DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8164E4-2628-4F93-86E7-AF8ED6192DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8164E4-2628-4F93-86E7-AF8ED6192DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8164E4-2628-4F93-86E7-AF8ED6192DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60DE372-1550-4FBB-890B-0C98F20F2878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60DE372-1550-4FBB-890B-0C98F20F2878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60DE372-1550-4FBB-890B-0C98F20F2878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60DE372-1550-4FBB-890B-0C98F20F2878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
